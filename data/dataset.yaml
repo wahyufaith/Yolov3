@@ -1,0 +1,8 @@
+train: D:\STUDY-ROOM\BRAWIJAYA UNIVERSITY\PUBLICATION\BEFORE THESIS\1. dataset\dataset\images\train
+val: D:\STUDY-ROOM\BRAWIJAYA UNIVERSITY\PUBLICATION\BEFORE THESIS\1. dataset\dataset\images\val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Human face']
